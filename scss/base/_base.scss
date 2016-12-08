@@ -21,7 +21,11 @@ h1 {
 }
 
 h2 {
-	@extend %hdln-sec;
+	// @extend %hdln-sec;
+	font-size: 80px;
+	line-height: 88px;
+	font-style: normal;
+	color: rgb(0, 0, 0);
 }
 
 h3 {
